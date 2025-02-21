@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sONaLISRIvaStAvAA
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning basics 
-- 📫 How to reach me - Gmail- sonali200530@gmail.com
+looking to learn and explore fields of engineering!
+
 
 <!---
 sONaLISRIvaStAvAA/sONaLISRIvaStAvAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
